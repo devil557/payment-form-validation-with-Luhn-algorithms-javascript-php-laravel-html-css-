@@ -384,6 +384,7 @@ if ($r->quant == 0 or null) {
 
 
 	
+
     <!-- Js Plugins -->
    
     <script src="{{ asset('public/material/home') }}/js/bootstrap.min.js"></script>
